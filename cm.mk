@@ -6,4 +6,4 @@ PRODUCT_DEVICE := edison2qc
 PRODUCT_NAME := cm_edison2qc
 PRODUCT_BRAND := bq
 PRODUCT_MANUFACTURER := bq
-PRODUCT_MODEL := bq Edison 2 Quad Core
+PRODUCT_MODEL := Edison 2 Quad Core
